@@ -9,14 +9,14 @@ I'm a **Computer Engineering student at Åbo Akademi University** in Finland and
 ## What I'm working on
 
 - 🛒 **[Ostli](https://ostli.app)**: an iOS app for shared shopping lists, built with SwiftUI and Firebase. This is what I'm building right now.
-- 🎨 **[Leonie Alessandra](https://leoniealessandra.com)**: a portfolio website for a 3D artist.
+- 🎨 **[Leonie Alessandra](https://leoniealessandra.com)**: a portfolio website for an amazing artist.
 - 🧑‍💻 **[miikkakoponen.com](https://miikkakoponen.com)**: my personal site ([source](https://github.com/miikkamaikkari/miikkakoponen)).
 - 🎬 **[miikkamaikkari on YouTube](https://www.youtube.com/@miikkamaikkari)**: films about ordinary weeks.
 
 ## Tech I use
 
 **iOS:** Swift · SwiftUI · Firebase
-**Web:** React · TypeScript · HTML/CSS · GSAP
+**Web:** React · TypeScript · HTML/CSS
 **Video:** filming and editing for YouTube and TikTok
 
 ## About me
