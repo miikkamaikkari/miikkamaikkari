@@ -1,4 +1,4 @@
-<img src="https://miikkakoponen.com/public/miikka-koponen-400.jpg" alt="Miikka Koponen" width="120" align="right"/>
+<img src="miikka-koponen.jpg" alt="Miikka Koponen" width="120" align="right"/>
 
 # Hi, I'm Miikka Koponen 👋
 
